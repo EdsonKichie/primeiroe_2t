@@ -16,3 +16,10 @@ h1 {
   background: orange;
   left: 50px;
 }
+.menuPrincipal {
+  position: absolute;
+  background: rgb(179, 184, 255);
+  width: 100%;
+  height: 100px;
+  top: 0;
+}
