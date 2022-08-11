@@ -43,8 +43,16 @@ li a {
 li a:hover {
   background: rgba(255, 202, 57, 0.589);
 }
-
-
+.boxImage {
+  width: 600px;
+  height: 600px;
+  background: rgb(255, 166, 0);
+  top: 200px;
+}
+#mar {
+  width: 500px;
+  height: 500px;
+}
 
 
 
