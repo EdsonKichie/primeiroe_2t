@@ -43,25 +43,6 @@ li a {
 li a:hover {
   background: rgba(255, 202, 57, 0.589);
 }
-.boxImage {
-  position: absolute;
-  width: 90%;
-  height: 500px;
-  background: rgb(255, 166, 0);
-  top: 45px;
-  left: 0;
-  margin: 20px;
-  border-color: black;
-  border-width: 10px;
-  border-style: solid;
-  padding: 10px;
-  display: flex;
-  justify-content:center;
-}
-#mar {
-  width: 800%;
-  height: 500px;
-}
 .rodape {
   position: absolute;
   width: 100%;
@@ -80,11 +61,31 @@ li a:hover {
 #imagemHome {
   width: 1000px;
   height: 200px;
+  margin-left: 150px;
 }
-
-
-
-
+.conteudo01 {
+  position: absolute;
+  top: 45px;
+}
+.boxImage {
+  position: absolute;
+  width: 90%;
+  height: 400px;
+  background: rgb(255, 166, 0);
+  top: 90px;
+  left: 0;
+  margin: 20px;
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+  padding: 10px;
+  display: flex;
+  justify-content:center;
+}
+#mar {
+  width: 800%;
+  height: 400px;
+}
 
 
 
